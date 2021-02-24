@@ -1,5 +1,3 @@
-setwd('C:/Users/aywel/Desktop/Research/Barabasi Lab/Nomix/Code/Data (New)')
-
 library(xopen) # General Library
 library(readxl)
 library(readr)
