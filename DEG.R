@@ -1,13 +1,3 @@
-####################################################################
-### Define GDAs for a disease
-### Function based ONLY in the DEGs.
-### In the future, the idea is to implement it based on other GDAs.
-####################################################################
-### Author: Deisy Morselli Gysi
-### Date: 12/01/2019
-### Version: 1
-####################################################################
-
 #' DEGs: Define Differentially Expressed Genes
 #' @description This function defines the set of DEGs for each disease. Should be run every 96 new patients. So we can update our model.
 #'
